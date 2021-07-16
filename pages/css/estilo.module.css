@@ -1,0 +1,39 @@
+.azul{
+    background-color: blue;
+    height: 100px;
+    width: 500px;
+    
+  }
+  
+.verde{
+background-color: violet;
+height: 100px;
+width: 500px;
+  
+}
+
+#layout{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.estilo1{
+  background-color: red;
+  color: black;
+  text-align: left;
+  width: 500px;
+  height: 100px;
+
+}
+
+.estilo2{
+  background-color: green;
+  color: white;
+  text-align: right;
+  width: 500px;
+  height: 100px;
+}
